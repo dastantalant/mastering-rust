@@ -1,0 +1,3 @@
+[submodule "algorithms/TheAlgorithms/Rust"]
+	path = algorithms/TheAlgorithms/Rust
+	url = https://github.com/TheAlgorithms/Rust.git
